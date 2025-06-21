@@ -2,7 +2,7 @@ Hi there! I'm Kareena Ramrakhya 👋
 📊 Passionate Data Analyst | Transforming Raw Data into Strategic Insights
 🔹 Data Enthusiast | Problem Solver | Insight-Driven Thinker
 
-I am a Data Analyst with a strong passion for uncovering insights that drive business growth and innovation. Currently pursuing my Master’s in Analytics, I thrive at the intersection of technology, data, and decision-making.
+I am a Data Analyst with a strong passion for uncovering insights that drive business growth and innovation. With Master’s in Analytics, I thrive at the intersection of technology, data, and decision-making.
 
 🚀 What I Bring to the Table:
 ✅ Data Exploration & Visualization – Transforming complex datasets into actionable insights using tools like Python, SQL, and Tableau.
